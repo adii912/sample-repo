@@ -1,0 +1,27 @@
+.my-style {
+  background-color: #C9D8B6;
+  color: #8C3333;
+  border: 3px dotted;
+
+
+}
+.my-styles {
+  background-color: #1A5D1A;
+  border: 3px dotted;
+}
+
+#my-id {
+  background-color: #0D1282;
+  color: #D71313;
+  border: 3px dotted;
+}
+
+p {
+  background-color: #557A46;
+  color: #F0DE36;
+  border: 3px dotted;
+}
+
+h1 {
+  color: #000;  /* overridding  */
+}
